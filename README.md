@@ -11,13 +11,13 @@ Divide into four groups with a theme:
 
 ### Gather images and create a collection
 
-Create an account at Playform: http://fbuy.me/rB95k. Provide all your details, you will receive 15$ worth of training time.
+[Create an account at Playform](http://fbuy.me/rB95k) (please use this link). Provide all your details, you will receive 15$ worth of training time (you will need this).
 
-Explore your theme and gather a minimum of 30 images. The images should be similar, but not identical. Use https://same.energy/ and https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm.
+Explore your theme and gather a minimum of 30 images. The images should be similar, but not identical. Use https://same.energy/ (or Google Images) and the [Download All Images Chrome extension](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm).
 
 In Playform:
 
-1. Head to https://create.playform.io/my-collections
+1. Visit https://create.playform.io/my-collections
 2. **Create a new collection**
 3. Upload your images
 4. Give your collection a title
@@ -30,7 +30,7 @@ In Playform:
 
 In Playform:
 
-1. Head to https://create.playform.io/my-projects
+1. Visit https://create.playform.io/my-projects
 2. **Create a new project**
 3. Click **Freeform**
 4. Watch the introductionary video
@@ -43,7 +43,7 @@ In Playform:
 
 ### Create a latent space walk video
 
-1. Head to https://create.playform.io/my-projects
+1. Visit https://create.playform.io/my-projects
 2. Wait for the training to complete…
 3. Select your project
 4. Click **Video**
@@ -56,7 +56,7 @@ In Playform:
 11. Wait for it to render the clip…
 12. Download the clip
 13. Name the clip **VISUAL_THEME_XX_01.mp4** eg. **VISUAL_HEAD_JJ_01.mp4**. If you make several, increment the suffix.
-14. Upload to the designated folder: https://bit.ly/3foQRin
+14. [Upload here](https://bit.ly/3foQRin)
 
 ## Vocal
 
@@ -66,7 +66,7 @@ Then:
 
 1. Record yourself speaking the script.
 2. Name the recording **VOCAL_XX_YY** (MP3/M4A/WAV) eg. **VOCAL_01_JJ**. The prefix identifies your part of the script.
-3. Upload to the designated folder: https://bit.ly/3foQRin
+3. [Upload here](https://bit.ly/3foQRin)
 
 ## Text
 
@@ -82,7 +82,7 @@ Then:
 6. Create a text file
 7. Add 1-5 paragraphs and save
 8. Name the file **TEXT_XX.txt** eg. **TEXT_JJ.txt**
-9. Upload to the designated folder: https://bit.ly/3foQRin
+9. [Upload here](https://bit.ly/3foQRin)
 
 Read https://bellard.org/textsynth/tech.html to learn about the parameters.
 
