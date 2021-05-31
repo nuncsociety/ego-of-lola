@@ -29,10 +29,10 @@ Now we're ready!
 
 Divide into four groups with a theme:
 
-1. Head
-2. Torso
-3. Leg
-4. Feet
+1. Head (TK)
+2. Torso (MF)
+3. Leg (JJ)
+4. Feet (CW)
 
 ### Gather images and create a collection
 
