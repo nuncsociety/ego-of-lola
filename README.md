@@ -1,6 +1,8 @@
 # EGO of LOLA
 
-## Learning exercise
+Together we will make sacrifices for a conjuring ritual. We will use the Exquisite Corpse method, and several kinds of machine learning techniques. The final output will be a seamlessly looping video, speaking meaningful words, with an amalgamation of voices.
+
+## Getting started
 
 [Create an account at Playform](http://fbuy.me/rB95k) (please use this link). Provide all your details, you will receive 15$ worth of training time (you will need this).
 
