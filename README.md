@@ -1,5 +1,33 @@
 # EGO of LOLA
 
+## Learning exercise
+
+[Create an account at Playform](http://fbuy.me/rB95k) (please use this link). Provide all your details, you will receive 15$ worth of training time (you will need this).
+
+Before we start, let's understand Machine Learning through a simple exercise.
+
+In Playform:
+
+1. Visit https://create.playform.io/my-stylize-projects
+2. **Create new project**
+3. Select **Stylize**
+4. Watch the video
+5. Click **Create Project**
+6. Click Upload Image and select a personal profile image
+7. Under **Pre-defined Styles** select any of the option
+8. Click **Generate Image**
+9. Wait a bit
+10. Hover the generated image and click **Download**
+11. Name the file **PROFILE_XX.png** eg. **PROFILE_JJ.png**
+12. [Upload here](https://bit.ly/3foQRin)
+
+![face](face.png)
+![face vivid](face_vivid.png)
+![face pattern](face_pattern.png)
+![face fine](face_fine.png)
+
+Now we're ready!
+
 ## Visual
 
 Divide into four groups with a theme:
@@ -10,8 +38,6 @@ Divide into four groups with a theme:
 4. Feet
 
 ### Gather images and create a collection
-
-[Create an account at Playform](http://fbuy.me/rB95k) (please use this link). Provide all your details, you will receive 15$ worth of training time (you will need this).
 
 Explore your theme and gather a minimum of 30 images. The images should be similar, but not identical. Use https://same.energy/ (or Google Images) and the [Download All Images Chrome extension](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm).
 
@@ -33,7 +59,7 @@ In Playform:
 1. Visit https://create.playform.io/my-projects
 2. **Create a new project**
 3. Click **Freeform**
-4. Watch the introductionary video
+4. Watch the video
 5. Click **Add Collection**
 6. Click **Use one of my collections**
 7. Select your collection
@@ -91,3 +117,5 @@ Read https://bellard.org/textsynth/tech.html to learn about the parameters.
 You've successfully accomplished all the steps.
 
 Rest.
+
+## Learning exercise
