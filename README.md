@@ -22,9 +22,6 @@ In Playform:
 12. [Upload here](https://bit.ly/3foQRin)
 
 ![face](face.png)
-![face vivid](face_vivid.png)
-![face pattern](face_pattern.png)
-![face fine](face_fine.png)
 
 Now we're ready!
 
