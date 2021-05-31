@@ -18,7 +18,7 @@ In Playform:
 8. Click **Generate Image**
 9. Wait a bit
 10. Hover the generated image and click **Download**
-11. Name the file **PROFILE_XX.png** eg. **PROFILE_JJ.png**
+11. Name the file **PROFILE_XX** eg. **PROFILE_JJ**
 12. [Upload here](https://bit.ly/3foQRin)
 
 ![face](face.png)
