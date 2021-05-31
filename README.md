@@ -4,24 +4,23 @@
 
 [Create an account at Playform](http://fbuy.me/rB95k) (please use this link). Provide all your details, you will receive 15$ worth of training time (you will need this).
 
-Before we start, let's understand Machine Learning through a simple exercise.
+_Before we start, let's understand Machine Learning through a simple exercise._
 
 In Playform:
 
-1. Visit https://create.playform.io/my-stylize-projects
-2. **Create new project**
+1. Visit [My Projects](https://create.playform.io/my-projects)]
+2. **Create New Project**
 3. Select **Stylize**
-4. Watch the video
+4. _Watch the video_
 5. Click **Create Project**
-6. Click Upload Image and select a personal profile image
-7. Under **Pre-defined Styles** select any of the option
-8. Click **Generate Image**
-9. Wait a bit
-10. Hover the generated image and click **Download**
-11. Name the file **PROFILE_XX** eg. **PROFILE_JJ**
-12. [Upload here](https://bit.ly/3foQRin)
-
-![face](face.png)
+6. Click **Upload Image** and select a personal profile image
+7. Select **Fine** under Process.
+8. Under **Pre-defined Styles** select any of the option
+9. Click **Generate Image**
+10. _Wait a bit_
+11. Hover the generated image and click **Download**
+12. Name the file **PROFILE_XX** eg. **PROFILE_JJ**
+13. [Upload here](https://bit.ly/3foQRin)
 
 Now we're ready!
 
@@ -40,20 +39,20 @@ Explore your theme and gather a minimum of 30 images. The images should be simil
 
 In Playform:
 
-1. Visit https://create.playform.io/my-collections
+1. Visit [My Collections](https://create.playform.io/my-collections)]
 2. **Create a new collection**
 3. Upload your images
 4. Give your collection a title
 5. Make it public
 6. Choose a fitting category
-7. Add the tag "basement9"
+7. Add the tag "lola"
 8. **Save changes**
 
 ### Create a project and start training
 
 In Playform:
 
-1. Visit https://create.playform.io/my-projects
+1. Visit [My Projects](https://create.playform.io/my-projects)]
 2. **Create a new project**
 3. Click **Freeform**
 4. Watch the video
@@ -63,6 +62,8 @@ In Playform:
 8. Click **Add to inspiration**
 9. Click **Begin training**
 10. Set training time to minimum 1 hour. Then **Begin Training**.
+
+_If you need more training time, you must either purchase more credits, or have someone else signup using your._
 
 ### Create a latent space walk video
 
@@ -83,7 +84,11 @@ In Playform:
 
 ## Vocal
 
-Each participant watches this: https://coda.io/@overdub/overdub-scripts and receives a script to read.
+Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61).
+
+TK: 0-10 minutes
+MF: 10-20 minutes
+CW: 20-30 minutes
 
 Then:
 
@@ -93,7 +98,7 @@ Then:
 
 ## Text
 
-Each participant explores https://openai.com/ and researches a manifest or poem of meaning. Must be in English.
+Each participant explores [Open AI](https://openai.com/) and researches a manifest or poem of meaning. Must be in English.
 
 Then:
 
@@ -104,7 +109,7 @@ Then:
 5. Click **More** to continue, or **Generate another** to start over
 6. Create a text file
 7. Add 1-5 paragraphs and save
-8. Name the file **TEXT_XX.txt** eg. **TEXT_JJ.txt**
+8. Name the file **TEXT_XX.txt** eg. **TEXT_JJ.txt** (.rtf is also fine)
 9. [Upload here](https://bit.ly/3foQRin)
 
 Read https://bellard.org/textsynth/tech.html to learn about the parameters.
@@ -114,5 +119,3 @@ Read https://bellard.org/textsynth/tech.html to learn about the parameters.
 You've successfully accomplished all the steps.
 
 Rest.
-
-## Learning exercise
