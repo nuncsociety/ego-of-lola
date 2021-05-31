@@ -14,12 +14,12 @@ In Playform:
 4. _Watch the video_
 5. Click **Create Project**
 6. Click **Upload Image** and select a personal profile image
-7. Select **Fine** under Process.
+7. Select **Fine** under **Process**.
 8. Under **Pre-defined Styles** select any of the option
 9. Click **Generate Image**
 10. _Wait a bit_
 11. Hover the generated image and click **Download**
-12. Name the file **PROFILE_XX** eg. **PROFILE_JJ**
+12. Name the file **PROFILE_XX** (XX = your initials)
 13. [Upload here](https://bit.ly/3foQRin)
 
 Now we're ready!
@@ -86,14 +86,14 @@ _If you need more training time, you must either purchase more credits, or have 
 
 Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61).
 
-TK: 0-10 minutes
-MF: 10-20 minutes
-CW: 20-30 minutes
+TK: 0-10 minutes (start from "A hundred years ago…")
+MF: 10-20 minutes (start from "Its mother does everything…")
+CW: 20-30 minutes (start from "The water here is…")
 
 Then:
 
 1. Record yourself speaking the script.
-2. Name the recording **VOCAL_XX_YY** (MP3/M4A/WAV) eg. **VOCAL_01_JJ**. The prefix identifies your part of the script.
+2. Name the recording **VOCAL_YY** (MP3/M4A/WAV) eg. **VOCAL_JJ**.
 3. [Upload here](https://bit.ly/3foQRin)
 
 ## Text
