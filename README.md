@@ -10,7 +10,7 @@ _Before we start, let's understand Machine Learning through a simple exercise._
 
 In Playform:
 
-1. Visit [My Projects](https://create.playform.io/my-projects)]
+1. Visit [My Projects](https://create.playform.io/my-projects)
 2. **Create New Project**
 3. Select **Stylize**
 4. _Watch the video_
@@ -41,7 +41,7 @@ Explore your theme and gather a minimum of 30 images. The images should be simil
 
 In Playform:
 
-1. Visit [My Collections](https://create.playform.io/my-collections)]
+1. Visit [My Collections](https://create.playform.io/my-collections)
 2. **Create a new collection**
 3. Upload your images
 4. Give your collection a title
@@ -54,7 +54,7 @@ In Playform:
 
 In Playform:
 
-1. Visit [My Projects](https://create.playform.io/my-projects)]
+1. Visit [My Projects](https://create.playform.io/my-projects)
 2. **Create a new project**
 3. Click **Freeform**
 4. Watch the video
@@ -69,7 +69,7 @@ _If you need more training time, you must either purchase more credits, or have 
 
 ### Create a latent space walk video
 
-1. Visit https://create.playform.io/my-projects
+1. Visit [My Projects](https://create.playform.io/my-projects)
 2. Wait for the training to complete…
 3. Select your project
 4. Click **Video**
@@ -86,10 +86,10 @@ _If you need more training time, you must either purchase more credits, or have 
 
 ## Vocal
 
-Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61).
+Each participant watches the [Overdub Tutorial](https://coda.io/@overdub/overdub-scripts) and receives a script to read from the [Main Script](https://coda.io/@overdub/overdub-scripts/main-script-61):
 
-TK: 0-10 minutes (start from "A hundred years ago…")
-MF: 10-20 minutes (start from "Its mother does everything…")
+TK: 0-10 minutes (start from "A hundred years ago…")  
+MF: 10-20 minutes (start from "Its mother does everything…")  
 CW: 20-30 minutes (start from "The water here is…")
 
 Then:
@@ -104,7 +104,7 @@ Each participant explores [Open AI](https://openai.com/) and researches a manife
 
 Then:
 
-1. Visit https://bellard.org/textsynth/
+1. Visit the [Text Synth](https://bellard.org/textsynth/)
 2. Paste the poem in the textarea
 3. Select **Large** under **Model**
 4. Click **Complete Text**
