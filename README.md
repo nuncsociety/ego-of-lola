@@ -114,7 +114,7 @@ Then:
 8. Name the file **TEXT_XX.txt** eg. **TEXT_JJ.txt** (.rtf is also fine)
 9. [Upload here](https://bit.ly/3foQRin)
 
-Read https://bellard.org/textsynth/tech.html to learn about the parameters.
+Read the [Technical Notes](https://bellard.org/textsynth/tech.html) to learn about the parameters.
 
 ## Congratulations
 
