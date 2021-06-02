@@ -76,7 +76,7 @@ _If you need more training time, you must either purchase more credits, or have 
 5. Click **Create New Clip**
 6. Select the first image of your video and **Add Image As Keyframe**
 7. Select 6 more images and repeat the process. The last image should be the same as the first.
-8. In the timeline, set the **Transition** to 00:10:00 ie. 10 seconds.
+8. In the timeline, set the **Transition** to 00:10:00 ie. 10 seconds. The clip should be 1 minute in total.
 9. Click **Finalize Clips**
 10. Click **Generate Clip**
 11. Wait for it to render the clip…
