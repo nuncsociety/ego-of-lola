@@ -45,9 +45,9 @@ In Playform:
 2. **Create a new collection**
 3. Upload your images
 4. Give your collection a title
-5. Make it public
-6. Choose a fitting category
-7. Add the tag "lola"
+5. Make it **Public**
+6. Choose a category (not important)
+7. Add the tag "lola", "basement9"
 8. **Save changes**
 
 ### Create a project and start training
